@@ -6,7 +6,7 @@ You are free to use, modify, and distribute any of the tools provided. However, 
 
 The following is a short description of the hosted toolboxes. Click each header to get directed to the corresponding repository.
 
-##[ReCaT](https://github.com/icon-lab/ReCaT)
+## [ReCaT](https://github.com/icon-lab/ReCaT)
 
 **Toolbox for reconstruction of multi-coil multi-acquisition data using calibration over tensors.**
 This technique is introduced in the [following paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26902):
