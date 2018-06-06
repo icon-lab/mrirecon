@@ -1,6 +1,6 @@
 # MRIRecon 
 
-This is a collection of codes and demos developed at the ICON Lab @ Bilkent University.
+This is a collection of codes and demos developed by ICON Lab @ Bilkent University.
 
 You are free to use, modify, and distribute any of the tools provided. However, please acknowledge this repository and cite the corresponding publications appropriately.
 
@@ -16,7 +16,10 @@ Biyik E, Ilicak E, Cukur T. Reconstruction by calibration over tensors for multi
 
 ## [segSampling](https://github.com/icon-lab/segSampling)
 
-
+**Toolbox for generation of segregated sampling patterns for accelerated multi-acquisition MRI.**
+This technique is introduced in the [following paper](https://arxiv.org/abs/1710.00532):
+ 
+Senel LK, Kilic T, Gungor A, Kopanoglu E, Guven HE, Saritas EU, Koc A, Çukur T. Statistically segregated k-space sampling for accelerating multiple-acquisition MRI. arXiv:1710.00532, 2017.
 
 
 
