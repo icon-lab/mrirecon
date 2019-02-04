@@ -6,6 +6,14 @@ You are free to use, modify, and distribute any of the tools provided. However, 
 
 The following is a short description of the hosted toolboxes. Click each header to get directed to the corresponding repository.
 
+## [SPIN-VM](https://github.com/icon-lab/SPIN-VM)
+
+**Toolbox for spatially informed voxelwise modeling.**
+This technique is introduced in the [following paper](https://www.sciencedirect.com/science/article/pii/S1053811918321256):
+ 
+Çelik, E., Dar, S. U. H., Yılmaz, Ö., Keleş, Ü., & Çukur, T. (2019). Spatially informed voxelwise modeling for naturalistic fMRI experiments. NeuroImage, 186, 741-757. doi: 10.1016/j.neuroimage.2018.11.044
+
+
 ## [PESCaT](https://github.com/icon-lab/PESCaT)
 
 **Toolbox for self-tuning reconstruction of multi-coil multi-acquisition data using projection onto epigraph sets.**
