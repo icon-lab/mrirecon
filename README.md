@@ -6,12 +6,20 @@ You are free to use, modify, and distribute any of the tools provided. However, 
 
 The following is a short description of the hosted toolboxes. Click each header to get directed to the corresponding repository.
 
+## [pGAN/cGAN](https://github.com/icon-lab/pGAN-cGAN)
+
+**Toolbox for pGAN and cGAN deep networks.**
+This technique is introduced in the [following paper](https://ieeexplore.ieee.org/abstract/document/8653423):
+ 
+Dar S.U.H., Yurt M., Karacan L., Erdem A., Erdem E., Çukur T., "Image synthesis in multi-contrast MRI with conditional generative adversarial networks", IEEE Transactions on Medical Imaging, 2019. doi: 10.1109/TMI.2019.2901750
+
+
 ## [SPIN-VM](https://github.com/icon-lab/SPIN-VM)
 
 **Toolbox for spatially informed voxelwise modeling.**
 This technique is introduced in the [following paper](https://www.sciencedirect.com/science/article/pii/S1053811918321256):
  
-Çelik, E., Dar, S. U. H., Yılmaz, Ö., Keleş, Ü., & Çukur, T. (2019). Spatially informed voxelwise modeling for naturalistic fMRI experiments. NeuroImage, 186, 741-757. doi: 10.1016/j.neuroimage.2018.11.044
+Çelik E., Dar S.U.H., Yılmaz Ö., Keleş Ü., Çukur T., (2019). "Spatially informed voxelwise modeling for naturalistic fMRI experiments. NeuroImage", 186, 741-757. doi: 10.1016/j.neuroimage.2018.11.044
 
 
 ## [PESCaT](https://github.com/icon-lab/PESCaT)
@@ -19,7 +27,7 @@ This technique is introduced in the [following paper](https://www.sciencedirect.
 **Toolbox for self-tuning reconstruction of multi-coil multi-acquisition data using projection onto epigraph sets.**
 This technique is introduced in the [following paper](https://ieeexplore.ieee.org/document/8567963):
  
-Shahdloo M., Ilicak E., Tofighi M., Saritas E. U., Çetin A. E., and Çukur T., "Projection onto Epigraph Sets for Rapid Self-Tuning Compressed Sensing MRI," IEEE Transactions on Medical Imaging, 2018. doi: 10.1109/TMI.2018.2885599
+Shahdloo M., Ilicak E., Tofighi M., Saritas E. U., Çetin A. E., and Çukur T., "Projection onto Epigraph Sets for Rapid Self-Tuning Compressed Sensing MRI", IEEE Transactions on Medical Imaging, 2018. doi: 10.1109/TMI.2018.2885599
 
 
 ## [ReCaT](https://github.com/icon-lab/ReCaT)
